@@ -25,8 +25,6 @@ A digital dice built using an **Arduino Uno**, **16×2 LCD**, and **push button*
 | Breadboard | 1 |
 | Jumper Wires | Several |
 
-Circuit Image : Tremendous Snicket(1).png 
-Diagram : Digital Dice.pdf
 
 
 ## 🚀 How It Works
