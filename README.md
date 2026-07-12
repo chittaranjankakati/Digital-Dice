@@ -1,6 +1,3 @@
-# Digital-Dice
-An Arduino Uno project that simulates a digital dice with an LCD display, rolling animation, and button input.
-
 # 🎲 Arduino Digital Dice
 
 A digital dice built using an **Arduino Uno**, **16×2 LCD**, and **push button**. The project simulates a real electronic dice with a startup animation, loading screen, rolling effect, and random dice generation.
