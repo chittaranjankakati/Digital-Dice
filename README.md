@@ -32,6 +32,11 @@ A digital dice built using an **Arduino Uno**, **16×2 LCD**, and **push button*
 [Click here to view the Digital Dice Circuit Diagram](Digital%20Dice.pdf)
 
 
+## 💻 Source Code
+The complete Arduino code for this project is included in this repository. 
+[Click here to view the Src-Code.ino file](Src-Code.ino)
+
+
 
 ## 🚀 How It Works
 
